@@ -1,71 +1,102 @@
-PIZZA SALES ANALYSIS PROJECT
+**HR ANALYTICS PROJECT**
 
-Preview of Projects
-Project Overview
-Preview of Projects
+1. Preview of Projects
+2. Project Overview
 
-SQL Queries: SQL Pizza Sales Queries
+**Preview of Projects:**
 
-Excel Pizza Sales Analytics Dashboard: Excel Pizza Sales Dashboard
+**Power BI HR Analytics Dashboard:**
+![HR Analytics POwer BI Dashboard](https://github.com/ekaterinakham/PowerBI-Tableau-SQL-Excel-HR-Analytics-Project/assets/144201262/eaa60708-2dc7-4185-a719-7b9fdd3e0bc1) 
 
-Power BI Pizza Sales Analytics Dashboard: Pizza Sales Power Bi
+**Tableau HR Analytics Project:**
+![HR Analytics Dashboard](https://github.com/ekaterinakham/PowerBI-Tableau-SQL-Excel-HR-Analytics-Project/assets/144201262/0d853a88-0651-4eae-a282-3b03abe5ed40)
 
-Tableau Pizza Sales Analytics Dashboard: Pizza Sales Home Pizza Sales Best   Worst Sellers
+**SQL Queries:**
+![SQL Queries HR Analytics](https://github.com/ekaterinakham/PowerBI-Tableau-SQL-Excel-HR-Analytics-Project/assets/144201262/b3ff0499-8fa8-4357-8a5a-1a36a0832e98)
 
-Project Overview
+**SQL Power BI Test Document:**
+![SQL Power Bi Test](https://github.com/ekaterinakham/PowerBI-Tableau-SQL-Excel-HR-Analytics-Project/assets/144201262/40d831f7-b6b9-4c20-9b68-16443c456f25)
 
-This portfolio project showcases an array of data analysis skills, including proficiency in Power BI, Tableau, SQL, and Excel. This project revolves around a comprehensive analysis of pizza sales data.
+**SQL Tableau Test Document:**
+![SQL Tableau Test HR Analytics](https://github.com/ekaterinakham/PowerBI-Tableau-SQL-Excel-HR-Analytics-Project/assets/144201262/4140fb78-7148-450a-bfd8-ac15e255e4ec)
 
-Data
+**Excel HR Analytics Dashboard:**
+![HR Analytics Excel Dashboard](https://github.com/ekaterinakham/PowerBI-Tableau-SQL-Excel-HR-Analytics-Project/assets/144201262/61adb174-ab1f-4b95-8bb5-c5840c6f058e)
 
-Pizza Sales Data 2015 (downloaded from kaggle.com)
 
-Problem Statement
+**Project Overview**
 
-The objective is to thoroughly examine crucial indicators within the pizza sales dataset to extract valuable insights into business performance. This analysis necessitates the creation of comprehensive data visualizations to provide a clear understanding of various facets of the pizza sales data, facilitating the identification and comprehension of key trends in business operations.
+This project utilized four essential data analysis tools: Power BI, Tableau Desktop, SQL, and Excel.
 
-Analysis:
+**Data**
 
-Key indicators for pizza sales data were analyzed to gain insights into business performance. Specifically, the following metrics:
+HR Data 2022 of a medical components manufacturing company (open source)
 
-Total Revenue: The sum of the total price of all pizza orders was calculated.
+**Problem Statement**
 
-• Sales by Category & Size: Demand was evaluated.
+Within the organization, the HR department bears the responsibility of monitoring and overseeing diverse facets of employee data to ensure the maintenance of a healthy workforce. Nevertheless, a notable deficiency exists in terms of well-defined performance indicators to systematically track and analyze critical HR metrics.
+To address this challenge, the project was structured around several pivotal components, meticulously designed to offer invaluable insights and hands-on experience.
 
-• Average Order Value: The average amount spent per order was calculated by dividing the total revenue by the total number of orders.
+**Analysis**
 
-• Total Pizzas Sold: The sum of the quantities of all pizzas sold was determined.
+A set of KPIs that can greatly benefit the HR department has been designed to address the following points:
 
-• Total Orders: The total number of orders placed was counted.
+**_Employee Count:_**
+With this KPI in place, the HR department can gain clear visibility into the total number of employees. This would enable effective workforce assessment, aiding in future growth or downsizing planning.
 
-• Average Pizzas Per Order: The average number of pizzas sold per order was calculated by dividing the total number of pizzas sold by the total number of orders.
+**_Attrition Count:_**
+By implementing a standardized method for tracking employee attrition, the HR department can obtain reliable and comprehensive data on the number of employees who have left the organization.
 
-Various aspects of pizza sales data were visualized to gain insights and understand key trends. The following requirements were identified for creating charts:
+**_Attrition Rate:_**
+The introduction of a clear measure for attrition rate offers the opportunity to assess turnover levels. This can be instrumental in comparing these rates with industry benchmarks and gaining insights into employee satisfaction and engagement levels.
 
-• Daily Trend for Total Orders: a bar chart was created to display the daily trend of total orders over a specific time period. This chart was designed to help identify patterns or fluctuations in daily order volumes.
+**_Active Employees:_**
+The ability to differentiate between active and inactive employees provides the HR department with a valuable tool to assess workforce productivity and capacity accurately.
 
-• Monthly/Hourly/Weekly Trend for Total Orders: a line chart was crafted to illustrate the hourly trend of total orders throughout the day. This chart was used to identify peak hours or periods of high-order activity.
+**_Average Age:_**
+By incorporating the average age KPI, the HR department can delve into workforce demographics. This insight can inform effective succession planning and enhance the organization's ability to attract and retain younger talent.
 
-• Best & Worst Sellers: Percentage of Sales by Pizza Category: a pie chart was generated to display sales distribution across different pizza categories. Insights into the popularity of various pizza categories and their contribution to overall sales were provided by this chart.
+The HR department's challenges in understanding attrition patterns based on gender, department-wise attrition rates, employee age distribution, job satisfaction ratings, education field-wise attrition, and attrition rates by gender for different age groups have all been successfully addressed through visualizations:
 
-Project Phases
+**_Attrition by Gender:_**
+Insightful visualizations that enable a comprehensive understanding of attrition patterns based on gender. This newfound clarity aids in identifying any gender-related disparities and facilitates the implementation of targeted retention strategies.
 
-Data Acquisition and SQL
+**_Department-wise Attrition:_**
+Visualizations have been deployed to showcase attrition rates across different departments. This enhancement empowers the HR department to easily identify departments with higher attrition rates, allowing them to promptly address any underlying issues or concerns.
 
-• Acquired and managed data within an MS SQL Server. • Employed SQL queries to extract key metrics such as total revenue, orders, and pizza sales.
+**_Number of Employees by Age Group:_**
+Visual representations have been established to analyze the distribution of employees across various age groups. This data supports the assessment of workforce demographics and facilitates the identification of age-related gaps or imbalances, informing the implementation of targeted HR policies or programs.
 
-Excel Dashboard
 
-• Created an interactive Excel dashboard incorporating pivot tables and visually compelling charts.
+The HR department can benefit from visualizations representing job satisfaction ratings, providing an effective means to measure employee engagement and overall job satisfaction levels.
 
-Power BI Dashboard
+**_Education Field-wise Attrition:_**
+Visual representations have been implemented to analyze attrition rates based on education fields. This allows for the identification of specific educational backgrounds associated with higher attrition, enabling tailored retention strategies.
+**
+_Attrition Rate by Gender for Different Age Groups:_**
+Visualizations display attrition rates based on gender and different age groups. This enables the HR department to identify age and gender-related attrition trends, facilitating the implementation of targeted retention strategies for specific employee segments.
 
-• Constructed a dynamic and interactive dashboard. • The emphasis was on data integration and the creation of visually appealing, informative visualizations.
+**Project Phases**
 
-Tableau Visualization
+**Power BI**
 
-• Created the dashboard in Tableau with custom charts.
+Constructed a dynamic and interactive dashboard.
+The emphasis was on data integration and the creation of visually appealing, informative visualizations.
 
-• Developed complex calculations and insightful trend analyses.
+**Tableau**
 
-Conclusion: This portfolio project serves as a testament to the ability to harness data effectively, transforming it into actionable insights. It showcases the technical prowess and dedication to providing invaluable solutions through data analysis.
+Created the dashboard in Tableau with custom charts.
+Developed complex calculations and insightful trend analyses.
+
+**SQL**
+
+Employed SQL queries to extract key metrics.
+Created test documents to demonstrate data validation data in Tableau and Power Bi using SQL queries
+
+**Excel** 
+
+Created an interactive Excel dashboard incorporating pivot tables and visually compelling charts.
+
+**Conclusion**
+
+This portfolio project serves as a testament to the ability to harness data effectively, transforming it into actionable insights. It showcases the technical prowess and dedication to providing invaluable solutions through data analysis.
